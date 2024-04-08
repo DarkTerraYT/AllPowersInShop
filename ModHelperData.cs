@@ -2,7 +2,7 @@
 
 public static class ModHelperData
 {
-    public const string WorksOnVersion = "41.0";
+    public const string WorksOnVersion = "42.0";
     public const string Version = "1.0.0";
     public const string RepoOwner = "LerpMcGerk (DarkTerraYT)";
     public const string RepoName = "AllPowersInShop";
