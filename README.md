@@ -1,3 +1,7 @@
+THIS MOD IS ARCHIVED AND WILL NOT BE FIXED UNLESS RUBBY WANTS IT TO BE!
+
+
+
 <a href="https://github.com/DarkTerraYT/AllPowersInShop/releases/latest/download/AllPowersInShop.dll">
     <img align="left" alt="Icon" height="90" src="Powers-Button.png">
     <img align="right" alt="Download" height="75" src="https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/BloonsTD6%20Mod%20Helper/Resources/DownloadBtn.png">
